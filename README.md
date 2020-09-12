@@ -26,6 +26,7 @@
  - [Grace Hopper Celebration](https://ghc.anitab.org/)
  - [She can Code](https://shecancode.io/)
  - [Tech Women At Intuit](https://www.intuit.com/careers/programs/tech-women-at-intuit/)
+ - [Codess](https://www.codess.net/events/india/)
 
 ### List of Online Platforms For Women
 
