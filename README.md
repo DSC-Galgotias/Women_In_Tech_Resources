@@ -1,5 +1,5 @@
-# Women_In_Resources
-### List of Women in Tech Platform 
+# Women_In_Tech_Resources
+### List of Platforms for Women In Tech 
 
  - [Women Who Code](https://www.womenwhocode.com/)
  - [GirlScript Foundation](https://www.girlscript.tech/home)
