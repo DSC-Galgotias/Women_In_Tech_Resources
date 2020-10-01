@@ -27,6 +27,11 @@
  - [She can Code](https://shecancode.io/)
  - [Tech Women At Intuit](https://www.intuit.com/careers/programs/tech-women-at-intuit/)
  - [Codess](https://www.codess.net/events/india/)
+ - [Girls Teaching Girls to Code](https://www.girlsteachinggirlstocode.org/)
+ - [PyLadies](https://pyladies.com/)
+ - [ACM W](https://women.acm.org/)
+ - [STEM 4 Girls](http://www.stem4girls.org/)
+ - [DevelopHER](https://developher.com/about/)
 
 ## <div align="center">List of Online Platforms For Women</div>
 
