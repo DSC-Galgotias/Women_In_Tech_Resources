@@ -73,6 +73,7 @@
 11. [LinkedIn Wintathon](https://wintathon2020.splashthat.com/)
 12. [Adobe Codiva](https://www.firstnaukri.com/careers/customised/landingpage/adobe/codiva/index.html)
 13. [Visa Code Your Way](https://assessment.hackerearth.com/challenges/hiring/visa-code-your-way-2019/)
+14. [Women Tech Global Conference](https://www.womentech.net/women-tech-conference)
  
 ## <div align="center">Scholarships</div>
 #### 1. [Google Scholarships](https://buildyourfuture.withgoogle.com/scholarships/)
